@@ -12,8 +12,8 @@ using MinhaAPI.Context;
 namespace MinhaAPI.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241107013337_MigracaoInicial")]
-    partial class MigracaoInicial
+    [Migration("20241111192817_Ajuste")]
+    partial class Ajuste
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
